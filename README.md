@@ -35,4 +35,4 @@
   </div>
 </div>
 <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit">inciar sesion con google </button>
-<telepord https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=74253956310-6f5bgn5uidc89fgn4go3f1c1np2nt3fh.apps.googleusercontent.com&as=F1mVIauF9qhS5Ne348ZoZQ&destination=https%3A%2F%2Fapp.site123.com&approval_state=!ChQwaXE5OGVqNGVRcDljeXFrSDlSRRIfWTNWSzlPZk8xTHdaMEVBN1JaNXdOM1B0RkJsWXVCWQ%E2%88%99AJDr988AAAAAXREQXcIcA8xvlQmDJD84uqs8GjjNefEz&oauthgdpr=1&xsrfsig=ChkAeAh8TzCCK1guhgvjr1tJxwZkptMLCGXaEg5hcHByb3ZhbF9zdGF0ZRILZGVzdGluYXRpb24SBXNvYWN1Eg9vYXV0aHJpc2t5c2NvcGU&flowName=GeneralOAuthFlow </telepord>
+
